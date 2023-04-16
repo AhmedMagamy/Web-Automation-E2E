@@ -27,6 +27,8 @@
 * Can execute each class/method separately
 * Or find the test suite XML file in the testng.xml* file and then click "Run As" > "TestNG Suite"
 * Or you can use this command in the directory of the project ```mvn clean test```
+  ![Alt Text](/readme/record.gif)
+
 
 ## Enhancements needed
 * Adding all data in external data files (json or excel sheets)
